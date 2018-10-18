@@ -59,7 +59,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
--  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
+-  [Video Tutorial for absolute beginners - YouTube](http://bit.ly/2NkrsKh)
 -  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
 -  [Google Python class](https://developers.google.com/edu/python/)
 
@@ -118,7 +118,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.5 Backend Development :computer:
 
 -  **Django - Python**
-    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
+    - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
@@ -207,7 +207,7 @@ Different Programming Languages**
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
  - [Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
  - [Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) (PAID)
- - [Youtube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+ - [YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
  - [PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills)
  - [Qwiklabs](https://qwiklabs.com/quests/19)
 
@@ -231,12 +231,12 @@ Different Programming Languages**
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
 
  ## 1.11 Git and Github :octocat:
- - [Git Tutorials].(https://www.atlassian.com/git/tutorials/comparing-workflows)
+ - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 ## 1.12 R Language
-- [RStudio}(https://www.rstudio.com/online-learning/)
+- [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
-- [R-Bloggers](https://www.r-bloggers.com/
+- [R-Bloggers](https://www.r-bloggers.com/)
 
 =============================================================================================
 
